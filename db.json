@@ -6,7 +6,7 @@
     { "id":4, "nomeFuncionario": "Lúcio", "email": "lucio@gmail.com", "cpf": "01233456789", "dataNasc": "2020-11-23","ddd": "32","telefone": "999998877", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora","cargo": "medico", "Especialidade": "","conselho": "357995"  }
     
 ],
-"perfilAcesso":[
+"perfil":[
     {"id": 1, "perfilAcesso": "Administrador","descricao": "Relatórios financeiros e dos funcionarios"},
     {"id": 1, "perfilAcesso": "Administrativo","descricao": "Partes administrativas" },
     {"id": 1, "perfilAcesso": "enfermeiro","descricao": "Manipulação e produtos e equipamentos" },
