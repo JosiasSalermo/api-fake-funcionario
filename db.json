@@ -5,5 +5,11 @@
     { "id":3, "nomeFuncionario": "Maria Clara", "email": "mariaclara@gmail.com", "cpf": "1234567890", "dataNasc": "2020-10-13","ddd": "32","telefone": "98888776655", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora","cargo": "secretária", "perfilAcesso": "administrativo", "Especialidade": "","conselho": "357995"  },
     { "id":4, "nomeFuncionario": "Lúcio", "email": "lucio@gmail.com", "cpf": "01233456789", "dataNasc": "2020-11-23","ddd": "32","telefone": "999998877", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora","cargo": "medico", "perfilAcesso": "medico", "Especialidade": "","conselho": "357995"  }
     
+],
+"perfilAcesso":[
+    {"id": 1, "perfil": "Administrador"},
+    {"id": 1, "perfil": "Administrativo"},
+    {"id": 1, "perfil": "enfermeiro"},
+    {"id": 1, "perfil": "médico"}
 ]
 }
