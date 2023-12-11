@@ -7,9 +7,9 @@
     
 ],
 "perfilAcesso":[
-    {"id": 1, "perfil": "Administrador"},
-    {"id": 1, "perfil": "Administrativo"},
-    {"id": 1, "perfil": "enfermeiro"},
-    {"id": 1, "perfil": "médico"}
+    {"id": 1, "perfil": "Administrador","descricao": "Relatórios financeiros e dos funcionarios"},
+    {"id": 1, "perfil": "Administrativo","descricao": "Partes administrativas" },
+    {"id": 1, "perfil": "enfermeiro","descricao": "Manipulação e produtos e equipamentos" },
+    {"id": 1, "perfil": "médico","descricao": "Autorizações de compras" }
 ]
 }
