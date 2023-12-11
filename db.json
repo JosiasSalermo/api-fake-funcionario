@@ -12,7 +12,7 @@
     {"id": 3, "perfilAcesso": "Enfermeiro","descricao": "Manipulação e produtos e equipamentos" },
     {"id": 4, "perfilAcesso": "Médico","descricao": "Autorizações de compras" }
 ],
-"cargo":[
+"cargos":[
     {"id": 1, "cargo": "técnico em enfermagem", "descricao": "atividades de técnico em enfermagem"},
     {"id": 1, "cargo": "enfermeiro", "descricao": "atividades de enfermeiro"},
     {"id": 1, "cargo": "secretária", "descricao": "atividades de secretária"},
