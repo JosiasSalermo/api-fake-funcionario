@@ -14,8 +14,8 @@
 ],
 "cargos":[
     {"id": 1, "cargo": "técnico em enfermagem", "descricao": "atividades de técnico em enfermagem"},
-    {"id": 1, "cargo": "enfermeiro", "descricao": "atividades de enfermeiro"},
-    {"id": 1, "cargo": "secretária", "descricao": "atividades de secretária"},
-    {"id": 1, "cargo": "medico", "descricao":"atividades de médico"}
+    {"id": 2, "cargo": "enfermeiro", "descricao": "atividades de enfermeiro"},
+    {"id": 3, "cargo": "secretária", "descricao": "atividades de secretária"},
+    {"id": 4, "cargo": "medico", "descricao":"atividades de médico"}
 ]
 }
