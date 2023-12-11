@@ -1,15 +1,21 @@
 {
 "funcionarios":[
-    { "id":1, "nomeFuncionario": "João Victor", "email": "joaovictor@gmail.com", "cpf": "01233456789", "dataNasc": "2020-11-23","ddd": "32","telefone": "999998877", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora","cargo": "técnico em enfermagem", "Especialidade": "","conselho": "357995"  },
-    { "id":2, "nomeFuncionario": "Paulo Cesar", "email": "joaovictor@gmail.com", "cpf": "01233456789", "dataNasc": "2020-11-23","ddd": "32","telefone": "999998877", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora","cargo": "enfermeiro",  "Especialidade": "","conselho": "357995"  },
-    { "id":3, "nomeFuncionario": "Maria Clara", "email": "mariaclara@gmail.com", "cpf": "1234567890", "dataNasc": "2020-10-13","ddd": "32","telefone": "98888776655", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora","cargo": "secretária", "Especialidade": "","conselho": "357995"  },
-    { "id":4, "nomeFuncionario": "Lúcio", "email": "lucio@gmail.com", "cpf": "01233456789", "dataNasc": "2020-11-23","ddd": "32","telefone": "999998877", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora","cargo": "medico", "Especialidade": "","conselho": "357995"  }
+    { "id":1, "nomeFuncionario": "João Victor", "email": "joaovictor@gmail.com", "cpf": "01233456789", "dataNasc": "2020-11-23","ddd": "32","telefone": "999998877", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora", "Especialidade": "","conselho": "357995"  },
+    { "id":2, "nomeFuncionario": "Paulo Cesar", "email": "joaovictor@gmail.com", "cpf": "01233456789", "dataNasc": "2020-11-23","ddd": "32","telefone": "999998877", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora",  "Especialidade": "","conselho": "357995"  },
+    { "id":3, "nomeFuncionario": "Maria Clara", "email": "mariaclara@gmail.com", "cpf": "1234567890", "dataNasc": "2020-10-13","ddd": "32","telefone": "98888776655", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora", "Especialidade": "","conselho": "357995"  },
+    { "id":4, "nomeFuncionario": "Lúcio", "email": "lucio@gmail.com", "cpf": "01233456789", "dataNasc": "2020-11-23","ddd": "32","telefone": "999998877", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora", "Especialidade": "","conselho": "357995"  }
     
 ],
 "perfil":[
     {"id": 1, "perfilAcesso": "Administrador","descricao": "Relatórios financeiros e dos funcionarios"},
-    {"id": 1, "perfilAcesso": "Administrativo","descricao": "Partes administrativas" },
-    {"id": 1, "perfilAcesso": "Enfermeiro","descricao": "Manipulação e produtos e equipamentos" },
-    {"id": 1, "perfilAcesso": "Médico","descricao": "Autorizações de compras" }
+    {"id": 2, "perfilAcesso": "Administrativo","descricao": "Partes administrativas" },
+    {"id": 3, "perfilAcesso": "Enfermeiro","descricao": "Manipulação e produtos e equipamentos" },
+    {"id": 4, "perfilAcesso": "Médico","descricao": "Autorizações de compras" }
+],
+"cargo":[
+    {"id": 1, "cargo": "técnico em enfermagem", "descricao": "atividades de técnico em enfermagem"},
+    {"id": 1, "cargo": "enfermeiro", "descricao": "atividades de enfermeiro"},
+    {"id": 1, "cargo": "secretária", "descricao": "atividades de secretária"},
+    {"id": 1, "cargo": "medico", "descricao":"atividades de médico"}
 ]
 }
