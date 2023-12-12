@@ -1,21 +1,120 @@
 {
-"funcionarios":[
-    { "id":1, "nomeFuncionario": "João Victor", "email": "joaovictor@gmail.com", "cpf": "01233456789", "dataNasc": "2020-11-23","ddd": "32","telefone": "999998877", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora", "Especialidade": "","conselho": "357995"  },
-    { "id":2, "nomeFuncionario": "Paulo Cesar", "email": "joaovictor@gmail.com", "cpf": "01233456789", "dataNasc": "2020-11-23","ddd": "32","telefone": "999998877", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora",  "Especialidade": "","conselho": "357995"  },
-    { "id":3, "nomeFuncionario": "Maria Clara", "email": "mariaclara@gmail.com", "cpf": "1234567890", "dataNasc": "2020-10-13","ddd": "32","telefone": "98888776655", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora", "Especialidade": "","conselho": "357995"  },
-    { "id":4, "nomeFuncionario": "Lúcio", "email": "lucio@gmail.com", "cpf": "01233456789", "dataNasc": "2020-11-23","ddd": "32","telefone": "999998877", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora", "Especialidade": "","conselho": "357995"  }
-    
-],
-"perfil":[
-    {"id": 1, "perfilAcesso": "Administrador","descricao": "Relatórios financeiros e dos funcionarios"},
-    {"id": 2, "perfilAcesso": "Administrativo","descricao": "Partes administrativas" },
-    {"id": 3, "perfilAcesso": "Enfermeiro","descricao": "Manipulação e produtos e equipamentos" },
-    {"id": 4, "perfilAcesso": "Médico","descricao": "Autorizações de compras" }
-],
-"cargos":[
-    {"id": 1, "cargo": "Técnica(o) em enfermagem", "descricao": "atividades de técnico em enfermagem"},
-    {"id": 2, "cargo": "Enfermeira(o)", "descricao": "atividades de enfermeiro"},
-    {"id": 3, "cargo": "Secretária(o)", "descricao": "atividades de secretária"},
-    {"id": 4, "cargo": "Medica(o)", "descricao":"atividades de médico"}
-]
+    "funcionarios": [
+        {
+            "id": 1,
+            "nomeFuncionario": "João Victor",
+            "email": "joaovictor@gmail.com",
+            "cpf": "01233456789",
+            "dataNasc": "2020-11-23",
+            "ddd": "32",
+            "telefone": "999998877",
+            "fotoPerfil": "",
+            "logradouro": "Rua",
+            "numero": "32",
+            "complemento": "",
+            "cep": "36023145",
+            "estado": "MG",
+            "cidade": "Juiz de Fora",
+            "Especialidade": "",
+            "conselho": "357995"
+        },
+        {
+            "id": 2,
+            "nomeFuncionario": "Paulo Cesar",
+            "email": "joaovictor@gmail.com",
+            "cpf": "01233456789",
+            "dataNasc": "2020-11-23",
+            "ddd": "32",
+            "telefone": "999998877",
+            "fotoPerfil": "",
+            "logradouro": "Rua",
+            "numero": "32",
+            "complemento": "",
+            "cep": "36023145",
+            "estado": "MG",
+            "cidade": "Juiz de Fora",
+            "Especialidade": "",
+            "conselho": "357995"
+        },
+        {
+            "id": 3,
+            "nomeFuncionario": "Maria Clara",
+            "email": "mariaclara@gmail.com",
+            "cpf": "1234567890",
+            "dataNasc": "2020-10-13",
+            "ddd": "32",
+            "telefone": "98888776655",
+            "fotoPerfil": "",
+            "logradouro": "Rua",
+            "numero": "32",
+            "complemento": "",
+            "cep": "36023145",
+            "estado": "MG",
+            "cidade": "Juiz de Fora",
+            "Especialidade": "",
+            "conselho": "357995"
+        },
+        {
+            "id": 4,
+            "nomeFuncionario": "Lúcio",
+            "email": "lucio@gmail.com",
+            "cpf": "01233456789",
+            "dataNasc": "2020-11-23",
+            "ddd": "32",
+            "telefone": "999998877",
+            "fotoPerfil": "",
+            "logradouro": "Rua",
+            "numero": "32",
+            "complemento": "",
+            "cep": "36023145",
+            "estado": "MG",
+            "cidade": "Juiz de Fora",
+            "Especialidade": "",
+            "conselho": "357995"
+        }
+    ],
+    "perfil": [
+        {
+            "id": 1,
+            "perfilAcesso": "Administrador",
+            "descricao": "Relatórios financeiros e dos funcionarios"
+        },
+        {
+            "id": 2,
+            "perfilAcesso": "Administrativo",
+            "descricao": "Partes administrativas"
+        },
+        {
+            "id": 3,
+            "perfilAcesso": "Enfermeiro",
+            "descricao": "Manipulação e produtos e equipamentos"
+        },
+        {
+            "id": 4,
+            "perfilAcesso": "Médico",
+            "descricao": "Autorizações de compras"
+        }
+    ],
+    "cargos": [
+        {
+            "id": 1,
+            "cargo": "Técnica(o) em enfermagem",
+            "descricao": "atividades de técnico em enfermagem"
+        },
+        {
+            "id": 2,
+            "cargo": "Enfermeira(o)",
+            "descricao": "atividades de enfermeiro"
+        },
+        {
+            "id": 3,
+            "cargo": "Secretária(o)",
+            "descricao": "atividades de secretária"
+        },
+        {
+            "id": 4,
+            "cargo": "Medica(o)",
+            "descricao": "atividades de médico"
+        }
+    ]
 }
