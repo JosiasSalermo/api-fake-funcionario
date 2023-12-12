@@ -13,9 +13,9 @@
     {"id": 4, "perfilAcesso": "Médico","descricao": "Autorizações de compras" }
 ],
 "cargos":[
-    {"id": 1, "cargo": "técnico em enfermagem", "descricao": "atividades de técnico em enfermagem"},
-    {"id": 2, "cargo": "enfermeiro", "descricao": "atividades de enfermeiro"},
-    {"id": 3, "cargo": "secretária", "descricao": "atividades de secretária"},
-    {"id": 4, "cargo": "medico", "descricao":"atividades de médico"}
+    {"id": 1, "cargo": "Técnica(o) em enfermagem", "descricao": "atividades de técnico em enfermagem"},
+    {"id": 2, "cargo": "Enfermeira(o)", "descricao": "atividades de enfermeiro"},
+    {"id": 3, "cargo": "Secretária(o)", "descricao": "atividades de secretária"},
+    {"id": 4, "cargo": "Medica(o)", "descricao":"atividades de médico"}
 ]
 }
