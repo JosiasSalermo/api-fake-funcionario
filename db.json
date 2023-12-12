@@ -15,7 +15,6 @@
             "cep": "36023145",
             "estado": "MG",
             "cidade": "Juiz de Fora",
-            "Especialidade": "",
             "conselho": "357995"
         },
         {
@@ -33,7 +32,6 @@
             "cep": "36023145",
             "estado": "MG",
             "cidade": "Juiz de Fora",
-            "Especialidade": "",
             "conselho": "357995"
         },
         {
@@ -51,7 +49,6 @@
             "cep": "36023145",
             "estado": "MG",
             "cidade": "Juiz de Fora",
-            "Especialidade": "",
             "conselho": "357995"
         },
         {
@@ -69,7 +66,6 @@
             "cep": "36023145",
             "estado": "MG",
             "cidade": "Juiz de Fora",
-            "Especialidade": "",
             "conselho": "357995"
         }
     ],
@@ -115,6 +111,28 @@
             "id": 4,
             "cargo": "Medica(o)",
             "descricao": "atividades de médico"
+        }
+    ],
+    "especialidades": [
+        {
+            "id": 1,
+            "especialidade": "Pediatria",
+            "descricao": "Especialista em Pediatria"
+        },
+        {
+            "id": 2,
+            "especialidade": "Infectologia",
+            "descricao": "Especialista em Infectologia"
+        },
+        {
+            "id": 3,
+            "especialidade": "Imunologia",
+            "descricao": "Especialista em Imunologia"
+        },
+        {
+            "id": 4,
+            "especialidade": "Epidemiologia",
+            "descricao": "Especialista em Epidemiologia"
         }
     ]
 }
