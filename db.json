@@ -1,138 +1,163 @@
 {
-    "funcionarios": [
-        {
-            "id": 1,
-            "nomeFuncionario": "João Victor",
-            "email": "joaovictor@gmail.com",
-            "cpf": "01233456789",
-            "dataNasc": "2020-11-23",
-            "ddd": "32",
-            "telefone": "999998877",
-            "fotoPerfil": "",
-            "logradouro": "Rua",
-            "numero": "32",
-            "complemento": "",
-            "cep": "36023145",
-            "estado": "MG",
-            "cidade": "Juiz de Fora",
-            "conselho": "357995"
-        },
-        {
-            "id": 2,
-            "nomeFuncionario": "Paulo Cesar",
-            "email": "joaovictor@gmail.com",
-            "cpf": "01233456789",
-            "dataNasc": "2020-11-23",
-            "ddd": "32",
-            "telefone": "999998877",
-            "fotoPerfil": "",
-            "logradouro": "Rua",
-            "numero": "32",
-            "complemento": "",
-            "cep": "36023145",
-            "estado": "MG",
-            "cidade": "Juiz de Fora",
-            "conselho": "357995"
-        },
-        {
-            "id": 3,
-            "nomeFuncionario": "Maria Clara",
-            "email": "mariaclara@gmail.com",
-            "cpf": "1234567890",
-            "dataNasc": "2020-10-13",
-            "ddd": "32",
-            "telefone": "98888776655",
-            "fotoPerfil": "",
-            "logradouro": "Rua",
-            "numero": "32",
-            "complemento": "",
-            "cep": "36023145",
-            "estado": "MG",
-            "cidade": "Juiz de Fora",
-            "conselho": "357995"
-        },
-        {
-            "id": 4,
-            "nomeFuncionario": "Lúcio",
-            "email": "lucio@gmail.com",
-            "cpf": "01233456789",
-            "dataNasc": "2020-11-23",
-            "ddd": "32",
-            "telefone": "999998877",
-            "fotoPerfil": "",
-            "logradouro": "Rua",
-            "numero": "32",
-            "complemento": "",
-            "cep": "36023145",
-            "estado": "MG",
-            "cidade": "Juiz de Fora",
-            "conselho": "357995"
-        }
-    ],
-    "perfil": [
-        {
-            "id": 1,
-            "perfilAcesso": "Administrador",
-            "descricao": "Relatórios financeiros e dos funcionarios"
-        },
-        {
-            "id": 2,
-            "perfilAcesso": "Administrativo",
-            "descricao": "Partes administrativas"
-        },
-        {
-            "id": 3,
-            "perfilAcesso": "Enfermeiro",
-            "descricao": "Manipulação e produtos e equipamentos"
-        },
-        {
-            "id": 4,
-            "perfilAcesso": "Médico",
-            "descricao": "Autorizações de compras"
-        }
-    ],
-    "cargos": [
-        {
-            "id": 1,
-            "cargo": "Técnica(o) em enfermagem",
-            "descricao": "atividades de técnico em enfermagem"
-        },
-        {
-            "id": 2,
-            "cargo": "Enfermeira(o)",
-            "descricao": "atividades de enfermeiro"
-        },
-        {
-            "id": 3,
-            "cargo": "Secretária(o)",
-            "descricao": "atividades de secretária"
-        },
-        {
-            "id": 4,
-            "cargo": "Medica(o)",
-            "descricao": "atividades de médico"
-        }
-    ],
-    "especialidades": [
-        {
-            "id": 1,
-            "especialidade": "Pediatria",
-            "descricao": "Especialista em Pediatria"
-        },
-        {
-            "id": 2,
-            "especialidade": "Infectologia",
-            "descricao": "Especialista em Infectologia"
-        },
-        {
-            "id": 3,
-            "especialidade": "Imunologia",
-            "descricao": "Especialista em Imunologia"
-        },
-        {
-            "id": 4,
-            "especialidade": "Epidemiologia",
-            "descricao": "Especialista em Epidemiologia"
-        }
-    ]
+  "funcionarios": [
+    {
+      "id": 1,
+      "cpf": "111.222.333-44",
+      "data_nascimento": "1980-05-10",
+      "email": "marcos.souza@clinicavida.com",
+      "nome": "Marcos Souza",
+      "rg": "MG-11.222.333",
+      "data_admissao": "2020-01-15",
+      "especialidade": "Clínico Geral",
+      "registro_conselho": "CRM-MG-12345",
+      "salario": 8500
+    },
+    {
+      "id": 2,
+      "cpf": "222.333.444-55",
+      "data_nascimento": "1990-09-22",
+      "email": "ana.menezes@clinicavida.com",
+      "nome": "Ana Menezes",
+      "rg": "SP-22.333.444",
+      "data_admissao": "2021-03-10",
+      "especialidade": "Enfermeira",
+      "registro_conselho": "COREN-SP-67890",
+      "salario": 4800
+    },
+    {
+      "id": 3,
+      "cpf": "333.444.555-66",
+      "data_nascimento": "1975-12-01",
+      "email": "ricardo.pires@clinicavida.com",
+      "nome": "Ricardo Pires",
+      "rg": "RJ-33.444.555",
+      "data_admissao": "2019-07-20",
+      "especialidade": "Farmacêutico",
+      "registro_conselho": "CRF-RJ-11111",
+      "salario": 6300
+    },
+    {
+      "id": 4,
+      "cpf": "444.555.666-77",
+      "data_nascimento": "1988-07-14",
+      "email": "claudia.lima@clinicavida.com",
+      "nome": "Cláudia Lima",
+      "rg": "DF-44.555.666",
+      "data_admissao": "2022-01-05",
+      "especialidade": "Técnica em Vacinas",
+      "registro_conselho": "COREN-DF-54321",
+      "salario": 4100
+    },
+    {
+      "id": 5,
+      "cpf": "555.666.777-88",
+      "data_nascimento": "1995-11-30",
+      "email": "joao.almeida@clinicavida.com",
+      "nome": "João Almeida",
+      "rg": "RS-55.666.777",
+      "data_admissao": "2023-06-01",
+      "especialidade": "Auxiliar Administrativo",
+      "registro_conselho": "Não se aplica",
+      "salario": 3200
+    }
+  ],
+
+  "perfil": [
+    {
+      "id": 1,
+      "funcionario_id": 1,
+      "login": "marcos.souza",
+      "cpf": "111.222.333-44",
+      "administrador": true
+    },
+    {
+      "id": 2,
+      "funcionario_id": 2,
+      "login": "ana.menezes",
+      "cpf": "222.333.444-55",
+      "administrador": false
+    },
+    {
+      "id": 3,
+      "funcionario_id": 3,
+      "login": "ricardo.pires",
+      "cpf": "333.444.555-66",
+      "administrador": false
+    },
+    {
+      "id": 4,
+      "funcionario_id": 4,
+      "login": "claudia.lima",
+      "cpf": "444.555.666-77",
+      "administrador": false
+    },
+    {
+      "id": 5,
+      "funcionario_id": 5,
+      "login": "joao.almeida",
+      "cpf": "555.666.777-88",
+      "administrador": false
+    }
+  ],
+
+  "cargo": [
+    {
+      "id": 1,
+      "cargo": "Médico",
+      "descricao": "Responsável por consultas clínicas e prescrição de vacinas",
+      "funcionario_id": 1
+    },
+    {
+      "id": 2,
+      "cargo": "Enfermeira",
+      "descricao": "Administração de vacinas e controle de pacientes vacinados",
+      "funcionario_id": 2
+    },
+    {
+      "id": 3,
+      "cargo": "Farmacêutico",
+      "descricao": "Gerenciamento de estoque de medicamentos e vacinas",
+      "funcionario_id": 3
+    },
+    {
+      "id": 4,
+      "cargo": "Técnica em Vacinação",
+      "descricao": "Apoio direto na aplicação e controle de doses administradas",
+      "funcionario_id": 4
+    },
+    {
+      "id": 5,
+      "cargo": "Auxiliar Administrativo",
+      "descricao": "Responsável por agendamentos, registros e atendimento ao público",
+      "funcionario_id": 5
+    }
+  ],
+
+  "telefone": [
+    {
+      "id": 1,
+      "ddd": "31",
+      "numero": "98877-6655"
+    },
+    {
+      "id": 2,
+      "ddd": "21",
+      "numero": "98456-1234"
+    },
+    {
+      "id": 3,
+      "ddd": "11",
+      "numero": "99123-4567"
+    },
+    {
+      "id": 4,
+      "ddd": "41",
+      "numero": "98765-4321"
+    },
+    {
+      "id": 5,
+      "ddd": "51",
+      "numero": "99666-7788"
+    }
+  ]
 }
