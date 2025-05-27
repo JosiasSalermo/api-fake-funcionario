@@ -131,33 +131,5 @@
       "descricao": "Responsável por agendamentos, registros e atendimento ao público",
       "funcionario_id": 5
     }
-  ],
-
-  "telefone": [
-    {
-      "id": 1,
-      "ddd": "31",
-      "numero": "98877-6655"
-    },
-    {
-      "id": 2,
-      "ddd": "21",
-      "numero": "98456-1234"
-    },
-    {
-      "id": 3,
-      "ddd": "11",
-      "numero": "99123-4567"
-    },
-    {
-      "id": 4,
-      "ddd": "41",
-      "numero": "98765-4321"
-    },
-    {
-      "id": 5,
-      "ddd": "51",
-      "numero": "99666-7788"
-    }
   ]
 }
